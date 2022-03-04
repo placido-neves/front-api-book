@@ -1,0 +1,42 @@
+.container {
+    background-color: #1e2833!important;
+    padding: 86px 186px;
+    position: absolute;
+    width: 100%;
+    
+    .line {
+        background: #ffffff;
+        mix-blend-mode: normal;
+        opacity: 0.1;
+        width: 970px;
+        height: 1px;
+        margin-bottom: 50px;
+        margin-top: 57px;
+    }
+    .footer-text {
+        display: flex;
+        color: #ffffff;
+        width: 1068px;
+      
+        h4 {
+            gap: 39px;
+            font-family: DM Sans;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 15px;
+            line-height: 20px; 
+            letter-spacing: -0.204545px;
+            color: #ffffff;
+            margin-right: 39px;
+        }
+        .social{
+            margin-left: 570px;
+            i{
+                margin-right:40px;
+            }
+           
+        }
+
+        
+    }
+}

@@ -1,0 +1,93 @@
+.content {
+    display: flex;
+    .card {
+        background-color: #fff;
+        border-radius: 4px;
+        border: 1px solid #dbdbdb;
+        height: auto;
+        width:259px;
+        img {
+            height: 227px;
+            width: 224px;
+            margin-top: 16px;
+            margin-left: 16px;
+            margin-right: 16px;
+            margin-bottom: 12px;
+        }
+        .title {
+            margin-left: 24px;
+            margin-right: 24px;
+            margin-bottom: 24px;
+            background-color: #fff;
+            h2 {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 150%;
+                letter-spacing: 0.0275em;
+                color: #19191d;
+                margin-bottom: 6px;
+                background-color: #fff;
+            }
+            h3 {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px;
+                line-height: 143%;
+                display: flex;
+                align-items: center;
+                letter-spacing: 0.018em;
+                color: #787885;
+                background-color: #fff;
+                margin-bottom: 8px;
+            }
+            .bottom-text {
+                font-family: Inter;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 14px;
+                display: flex;
+                align-items: center;
+                letter-spacing: 0.018em;
+                color: #787885;
+                margin-bottom:8px ;
+                background-color: #fff;
+
+            }
+
+            .bottom-button {
+                display: flex;
+                font-family: Inter;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 143%;
+                align-items: center;
+                color: #2264d1;
+                background-color: #fff;
+
+                .genre {
+                    border: 1px solid #9dc2ff;
+                    box-sizing: border-box;
+                    border-radius: 4px;
+                    color: #2264d1;                    
+                    padding: 5px 12px;
+                }
+
+                .published {
+                    font-family: Inter;
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 14px;
+                    line-height: 143%;
+                    align-items: center;
+                    color: #2264d1;
+                    margin-left:65px ;
+                   
+                }
+            }
+        }
+    }
+}
