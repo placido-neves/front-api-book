@@ -1,17 +1,45 @@
-Lisbs
-    Sass -> lib compiladora do sass nodejs
-    Axios  -> lib de requests de api
-    Reactjs -> framework frontend
+<div>
+   <h2 align="center" style="font-size: 25px;margin-bottom: 2rem;">Teste Reactjs</h2>
+   <div align="center">
+   </div>
+</div>
 
-Diretorios
-    Componentes
-        Card -> Uma função onde os parâmentros são os dados da api
-        Footer -> Funçao do footer simples
-        Navbar -> Funçao da navbar
-    Img -> onde ta todas imagens da logo e do footer
-    Service -> onde ta integrado a api
+# Frontend  teste de uma API de livros
+<p> Consiste em uma pagina estatica feita em reactjs que consulta uma API sem rotas so para testa um desing de um lading page <p>
+</br>
 
-Arquivos 
-    App -> onde tão todos os componentes
-        
-        
+<p style="font-size: 15px">Execute o comando a seguir no terminal para instalar as dependências</p>
+
+```
+$ npm i
+ou
+$ npm install
+
+```
+<p style="font-size: 15px">Execute o comando a seguir no terminal para instalar as dependências com yarn</p>
+
+```
+$ yarn install 
+
+```
+
+<p style="font-size: 15px">Para executar o projeto digite</p>
+
+```
+$ npm start 
+ou 
+$ yarn start 
+```
+# Tecnologias e ferramentas utilizadas
+<div >
+<ul>
+<li>Node</li>
+<li>SCSS</li>
+<li>ReactJSr</li>
+</ul>
+</div>
+
+# Desenvolvedor
+
+<p style="font-size: 15px">Placido Neves</p>
+
